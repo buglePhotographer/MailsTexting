@@ -1,0 +1,6 @@
+c:\users\gustavo.citati\documents\visual studio 2013\Projects\MailsTexting\MailsTexting\bin\Debug\MailsTexting.exe.config
+c:\users\gustavo.citati\documents\visual studio 2013\Projects\MailsTexting\MailsTexting\bin\Debug\MailsTexting.exe
+c:\users\gustavo.citati\documents\visual studio 2013\Projects\MailsTexting\MailsTexting\bin\Debug\MailsTexting.pdb
+c:\users\gustavo.citati\documents\visual studio 2013\Projects\MailsTexting\MailsTexting\obj\Debug\MailsTexting.csprojResolveAssemblyReference.cache
+c:\users\gustavo.citati\documents\visual studio 2013\Projects\MailsTexting\MailsTexting\obj\Debug\MailsTexting.exe
+c:\users\gustavo.citati\documents\visual studio 2013\Projects\MailsTexting\MailsTexting\obj\Debug\MailsTexting.pdb
